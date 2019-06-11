@@ -6,3 +6,5 @@ IT猎头fancyfrees，
 技术方向：Java/Python/Ruby on rails/PHP/Node.js/JavaScript/HTML/QA/iOS/Android/NLP,
 算法，反作弊算法，大数据，人工智能，机器学习，音视频算法，云计算等 
 http://www.fancyfrees.net/
+
+公司官网：http://www.greatconsulting.club/
